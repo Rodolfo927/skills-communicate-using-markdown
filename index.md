@@ -5,3 +5,5 @@
 ##### h5
 ###### h6
 Added heading 1-6 for the file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Added an imagre of yaktocat
